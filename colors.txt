@@ -5,6 +5,8 @@ Rainbow
 flag
 food
 
+festivals
+clothes
 
 
 Thank you 
