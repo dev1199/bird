@@ -1,0 +1,4 @@
+
+go to shop
+buy clothes
+pay
