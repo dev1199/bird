@@ -5,8 +5,14 @@ Rainbow
 flag
 food
 
+festivals
+clothes
 
 
 Thank you 
 
+
+Done my changes
+
 final copy
+
